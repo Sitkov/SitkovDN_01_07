@@ -1,0 +1,8 @@
+C:\Users\st310-10\Desktop\SitkovDN_01_07\SitkovDN_01_07\bin\Debug\SitkovDN_01_07.exe.config
+C:\Users\st310-10\Desktop\SitkovDN_01_07\SitkovDN_01_07\bin\Debug\SitkovDN_01_07.exe
+C:\Users\st310-10\Desktop\SitkovDN_01_07\SitkovDN_01_07\bin\Debug\SitkovDN_01_07.pdb
+C:\Users\st310-10\Desktop\SitkovDN_01_07\SitkovDN_01_07\obj\Debug\SitkovDN_01_07.csproj.AssemblyReference.cache
+C:\Users\st310-10\Desktop\SitkovDN_01_07\SitkovDN_01_07\obj\Debug\SitkovDN_01_07.csproj.CoreCompileInputs.cache
+C:\Users\st310-10\Desktop\SitkovDN_01_07\SitkovDN_01_07\obj\Debug\SitkovDN_01_07.exe
+C:\Users\st310-10\Desktop\SitkovDN_01_07\SitkovDN_01_07\obj\Debug\SitkovDN_01_07.pdb
+C:\Users\st310-10\Desktop\SitkovDN_01_07\SitkovDN_01_07\obj\Debug\SitkovDN_01_07.exe.config
